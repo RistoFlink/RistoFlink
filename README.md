@@ -1,3 +1,3 @@
-# Working on some small projects to get more back into programming after a long pause.
-# Newest projects: mostly focused on learning Go and React.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RistoFlink&exclude_repo=Test-Automation&langs_count=10&layout=donut&&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
+# Going back to school in September 2024 to finish my degree in Software Engineering!
+# Newest projects: C#, .NET and Angular.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RistoFlink&exclude_repo=Test-Automation&langs_count=12&layout=donut&&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
