@@ -1,3 +1,7 @@
 # Currently working as a Software Engineer @ Wolt.
 # Newest projects: TBD.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RistoFlink&exclude_repo=Test-Automation&langs_count=20&layout=compact&&hide=scss,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://raw.githubusercontent.com/RistoFlink/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/RistoFlink/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/RistoFlink/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/RistoFlink/github-stats/master/generated/languages.svg#gh-light-mode-only)
